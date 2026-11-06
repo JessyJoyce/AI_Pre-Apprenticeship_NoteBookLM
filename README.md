@@ -6,6 +6,7 @@ An AI-powered career guidance workflow built with Google NotebookLM. It supports
 Jit Career Coach is an AI-powered assistant designed to help students, job seekers, and individuals preparing to enter the workforce. Built using Google NotebookLM. Jit helps users identify skill gaps, understand job requirements, prepare for mock job interviews, and create actionable 30/60/90-day career development plans. The purpose of Jit is to make career preparation and career transition easier, more organized, and accessible by using trusted career resources and target job descriptions.
 
 Career Pathway: Software Technology / Cybersecurity
+
 Built with: Google NotebookLM
 
 # The Problem I'm Solving
