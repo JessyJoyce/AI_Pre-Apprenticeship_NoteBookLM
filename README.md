@@ -48,5 +48,5 @@ I provided Jit with information from Google's internship posting, including:
 
 Jit helped me better understand the job requirements, how recruiters might evaluate applicants, and how my resume could align with the position. It also helped me recognize the importance of having the right technical skills and qualifications when applying for internship roles. Jit to identify
 
-![Career Guidance](Response Screenshot/Career Guidance.png)
+![Career Guidance](Response Screenshot/Career Guidance/Screenshot 2026-11-05 at 16.20.54.png)
   
