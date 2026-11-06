@@ -15,3 +15,5 @@ Many students, pre-apprenticeship participants, and job seekers struggle to unde
 # 3. How My AI Career Coach Works
 I curated career resources to help Jit Career Coach provide relevant and source-grounded career guidance. These resources include: 
 
+!Software Engineering Career Resources
+
