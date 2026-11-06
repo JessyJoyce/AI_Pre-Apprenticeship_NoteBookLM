@@ -46,7 +46,30 @@ I provided Jit with information from Google's internship posting, including:
 
 **What Jit Helped Me Understand**
 
-Jit helped me better understand the job requirements, how recruiters might evaluate applicants, and how my resume could align with the position. It also helped me recognize the importance of having the right technical skills and qualifications when applying for internship roles. Jit to identify
+Jit helped me better understand the job requirements, how recruiters might evaluate applicants, and how my resume could align with the position. It also helped me recognize the importance of having the right technical skills and qualifications when applying for internship roles. It helped me identify potential skill gaps and recommend areas where I could improve my skills to become a stronger candidate. 
 
-![Career Guidance](Response Screenshot/Career Guidance/Screenshot 2026-11-05 at 16.20.54.png)
-  
+![Career Guidance](<Response Screenshot/Career Guidance/career-guidance.png>)
+
+**4.2 Mock Interview and Hiring Preparation**
+
+**My AI Prompt:**
+
+"Act as a senior software engineering hiring manager. Help me prepare for the role in my uploaded job description. Use my uploaded résumé as evidence. Be direct but constructive, and flag anything you cannot verify."
+
+**What I learned: 
+I used Jit Career Coach to review my résumé against the software engineering job description from my uploaded resources. I wanted to understand how a hiring manager might assess my qualifications, identify areas where my experience matched the role, and recognize areas that needed improvement.
+
+This exercise helped me understand the importance of aligning my résumé with job requirements and being prepared to explain my skills and experience during an interview.
+
+![Career Mock Preparation](<Response Screenshot/Interview Preparation/interview-preparation.png>)
+
+**4.3 Career Action Plan
+
+**AI-Generated Career Plan:**
+
+Jit Career Coach generated a structured 30/60/90-day software engineering development plan based on my career resources, uploaded resume, and job requirements. 
+
+The screenshot below shows the 90-day action plan, outlining practical steps to help me strengthen my technical skills, gain hands-on experience, and prepare for software engineering internship opportunities.  
+
+![Career Action Plan](<Response Screenshot/TargetRole:90-day Plan/Traget-Role90plan.png>)
+
